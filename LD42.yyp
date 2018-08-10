@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "82cdc2c7-1bbf-4806-aaca-8f316bcd5f46",
+            "Value": {
+                "id": "e1f7f28b-603b-477e-aad9-8652345dd48a",
+                "resourcePath": "sprites\\sMeinSuperSprite\\sMeinSuperSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "85055a8d-1c34-4fc2-ae7d-ac975ec8fc8a",
             "Value": {
                 "id": "c10645fe-fa00-44f9-85c6-8b8e57ec15bb",
