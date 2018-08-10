@@ -111,14 +111,6 @@
             }
         },
         {
-            "Key": "82cdc2c7-1bbf-4806-aaca-8f316bcd5f46",
-            "Value": {
-                "id": "e1f7f28b-603b-477e-aad9-8652345dd48a",
-                "resourcePath": "sprites\\sMeinSuperSprite\\sMeinSuperSprite.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "85055a8d-1c34-4fc2-ae7d-ac975ec8fc8a",
             "Value": {
                 "id": "c10645fe-fa00-44f9-85c6-8b8e57ec15bb",
@@ -202,7 +194,7 @@
             "Key": "d1f60681-9494-4df0-9149-3c562723a1df",
             "Value": {
                 "id": "de3c55a7-1f29-4235-9a7c-be615518e3fe",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rDesktop\\rDesktop.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -212,6 +204,14 @@
                 "id": "5c68866c-16f7-4c1e-857d-72e5c1a98255",
                 "resourcePath": "views\\d55aecda-d5a7-4018-9da8-9bbc89dfa87d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e0c6d4b3-2864-4ff8-a2ad-89ae526acd51",
+            "Value": {
+                "id": "e044273a-fc86-437e-858b-e1ad47a8126e",
+                "resourcePath": "rooms\\rBrowser\\rBrowser.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

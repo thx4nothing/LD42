@@ -39,12 +39,5 @@ var _font_string = "ABCDEFGHIJKLMNOPQRSTUVWXYZ.abcdefghijklmnopqrstuvwxyz1234567
 global.font = font_add_sprite_ext(s_font, _font_string, true, 1);
 draw_set_font(global.font);
 
-paused_ = false;
-paused_sprite = noone;
-paused_sprite_scale = display_get_gui_width() / view_wport[0];
-
-freeze = false; //freeze true or false
-freezeDur = 5; //how long the freeze lasts
-
 if gamepad_is_connected(0) gamepad_set_axis_deadzone(0, 0.05);
 
