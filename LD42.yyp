@@ -31,11 +31,35 @@
     },
     "resources": [
         {
+            "Key": "094f3d81-07de-409e-a826-2c1a046ca5a2",
+            "Value": {
+                "id": "ccc86d92-e1fd-48f0-937f-04495688bad0",
+                "resourcePath": "rooms\\_display_init\\_display_init.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "1e8aca0f-1003-4b7f-9802-fd4d353e5959",
+            "Value": {
+                "id": "980b1708-975d-435c-930c-9cd7cf48428a",
+                "resourcePath": "objects\\oGame\\oGame.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "21171557-f3da-4969-8f0d-577602884542",
             "Value": {
                 "id": "97d5a61f-28bc-4fb5-b26b-c4100ccd5e6b",
                 "resourcePath": "views\\21171557-f3da-4969-8f0d-577602884542.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "214349bb-6493-43a6-8826-b5f500630956",
+            "Value": {
+                "id": "2a42ac5b-d727-4036-a2fd-6f8a269d8a7b",
+                "resourcePath": "scripts\\display_write_spec\\display_write_spec.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -79,6 +103,14 @@
             }
         },
         {
+            "Key": "73b42bb0-2ad3-4e65-9049-9588cf9a9f7a",
+            "Value": {
+                "id": "3d8e2714-0f46-4d36-91c7-ec40ad53d853",
+                "resourcePath": "objects\\oDisplayManager\\oDisplayManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "82cdc2c7-1bbf-4806-aaca-8f316bcd5f46",
             "Value": {
                 "id": "e1f7f28b-603b-477e-aad9-8652345dd48a",
@@ -100,6 +132,14 @@
                 "id": "3f100534-ce00-481d-9cbb-cc41efe2acd1",
                 "resourcePath": "views\\88bd924e-cb29-48b7-b3bf-d2c3be175f82.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "93a2037c-e460-403d-a7ab-a30fccaa224b",
+            "Value": {
+                "id": "39a85267-773c-41bd-a066-9b38dce0d2d0",
+                "resourcePath": "sprites\\s_font\\s_font.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -200,7 +240,7 @@
         }
     ],
     "script_order": [
-        
+        "214349bb-6493-43a6-8826-b5f500630956"
     ],
     "tutorial": ""
 }
