@@ -6,7 +6,8 @@
     "children": [
         "7cb74d79-3db5-41b6-9f2d-024acfb63220",
         "d99af290-b3f0-42c9-91f8-04e7b8c24096",
-        "163dade3-84cb-4d47-bca5-17946f915f98"
+        "163dade3-84cb-4d47-bca5-17946f915f98",
+        "7f79e549-1df1-4e6e-85d5-cfc04beeabb0"
     ],
     "filterType": "GMSprite",
     "folderName": "Desktop",

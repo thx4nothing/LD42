@@ -8,7 +8,8 @@
         "8e0299da-b9f9-4a30-ac1c-bad9ff1c7773",
         "4701c22f-c77e-4575-9a6b-2ff09e30b1ac",
         "d1be715f-6460-458d-9299-cfefa9420434",
-        "0ca525ee-e345-4245-b364-2962a4c5002e"
+        "0ca525ee-e345-4245-b364-2962a4c5002e",
+        "ba8fc8d1-40e5-4e39-92fa-185cf1783119"
     ],
     "filterType": "GMSprite",
     "folderName": "Browser",

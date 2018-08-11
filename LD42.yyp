@@ -175,11 +175,11 @@
             }
         },
         {
-            "Key": "4701c22f-c77e-4575-9a6b-2ff09e30b1ac",
+            "Key": "480de73d-b5d5-459b-95b6-b891a9d955a1",
             "Value": {
-                "id": "e69be290-2e4b-49f2-9338-ddab53e38e91",
-                "resourcePath": "views\\4701c22f-c77e-4575-9a6b-2ff09e30b1ac.yy",
-                "resourceType": "GMFolder"
+                "id": "51276ec3-33c7-4fbd-a45f-54d7989a489e",
+                "resourcePath": "fonts\\fntDesktopText\\fntDesktopText.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -255,11 +255,11 @@
             }
         },
         {
-            "Key": "61e48b0b-649f-4838-a70a-b5feb5715f0c",
+            "Key": "69c1246e-3fc3-4063-bfc7-16a24f2155a0",
             "Value": {
-                "id": "4e91aa1a-6de9-42c7-80ea-ba4d369601fc",
-                "resourcePath": "sprites\\sFrame\\sFrame.yy",
-                "resourceType": "GMSprite"
+                "id": "41d1e4de-1a64-4643-b8bf-fc150b8388bf",
+                "resourcePath": "scripts\\get_random_movie_name\\get_random_movie_name.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -268,6 +268,14 @@
                 "id": "fe39da2b-a825-4672-8553-f3db8ef18d6b",
                 "resourcePath": "objects\\oTaskListButton\\oTaskListButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7196d64d-ef2a-4600-a674-0bdbaa660ce4",
+            "Value": {
+                "id": "c39a3ee9-d18d-4138-976f-38b48bc518ea",
+                "resourcePath": "sprites\\sMovie\\sMovie.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -292,6 +300,14 @@
                 "id": "47032047-ac9d-4659-a5c2-5c3ba99fcb97",
                 "resourcePath": "sprites\\sWallpaper\\sWallpaper.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7f79e549-1df1-4e6e-85d5-cfc04beeabb0",
+            "Value": {
+                "id": "83fc391b-29b3-408e-abc4-7a93bb63230f",
+                "resourcePath": "views\\7f79e549-1df1-4e6e-85d5-cfc04beeabb0.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -444,6 +460,14 @@
                 "id": "ca16898b-d1ab-49ae-b292-cbefc6b164ec",
                 "resourcePath": "objects\\oMovieCategoryButton\\oMovieCategoryButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ba8fc8d1-40e5-4e39-92fa-185cf1783119",
+            "Value": {
+                "id": "1df38524-4236-467b-8e13-6da4ce44b1e9",
+                "resourcePath": "sprites\\sBackground\\sBackground.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -615,6 +639,14 @@
             }
         },
         {
+            "Key": "fac055cd-b7ec-4c96-9669-88fa4234ad9d",
+            "Value": {
+                "id": "84bf57e5-8c1c-4fb6-aa73-4f9298c4f5ec",
+                "resourcePath": "datafiles_yy\\items.json.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "fcee0484-705b-4798-981f-94d9c5d8ae2c",
             "Value": {
                 "id": "87fe9825-48bd-4bc0-9c33-bed8641b9fae",
@@ -624,7 +656,8 @@
         }
     ],
     "script_order": [
-        "214349bb-6493-43a6-8826-b5f500630956"
+        "214349bb-6493-43a6-8826-b5f500630956",
+        "69c1246e-3fc3-4063-bfc7-16a24f2155a0"
     ],
     "tutorial": ""
 }
