@@ -1,14 +1,23 @@
 {
-    "id": "b5306d77-d1d7-45a4-8bba-9f09d2d29285",
+    "id": "47f14178-25bd-463d-821c-70fe079f7568",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oMovieCategoryButton",
+    "name": "oBrowserManager",
     "eventList": [
-        
+        {
+            "id": "523cc1e5-9e7f-4b26-a47c-245b3ba0529d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "47f14178-25bd-463d-821c-70fe079f7568"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "3b598ae9-0841-4ee5-aa4c-75a5b23486a7",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "933180ef-e1dd-4cb6-9295-d4ecd1394948",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

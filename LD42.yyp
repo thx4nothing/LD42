@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "3b598ae9-0841-4ee5-aa4c-75a5b23486a7",
+            "Value": {
+                "id": "998a1f07-defb-4dd3-9daf-7df512724420",
+                "resourcePath": "objects\\oButton\\oButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3bdf3dd3-6d37-4b76-b17a-4a5e2b2ccc13",
             "Value": {
                 "id": "24cd40c7-0390-4874-b171-c80d7e3765f2",
@@ -172,6 +180,14 @@
                 "id": "a55e2cd8-fc18-493d-b100-76c083a53c81",
                 "resourcePath": "sprites\\sTaskListButton\\sTaskListButton.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "47f14178-25bd-463d-821c-70fe079f7568",
+            "Value": {
+                "id": "352bad01-e93e-4e50-83ce-924aa8e0b522",
+                "resourcePath": "objects\\oBrowserManager\\oBrowserManager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
