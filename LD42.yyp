@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "480de73d-b5d5-459b-95b6-b891a9d955a1",
+            "Value": {
+                "id": "51276ec3-33c7-4fbd-a45f-54d7989a489e",
+                "resourcePath": "fonts\\fntDesktopText\\fntDesktopText.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "493d23f9-0925-4cac-84d2-9e685ef4c567",
             "Value": {
                 "id": "f6dce67b-a7d5-44fa-b217-ab97b52ef095",
@@ -452,6 +460,14 @@
                 "id": "010fc148-0865-40b8-8f4e-9daa6e45f13f",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fac055cd-b7ec-4c96-9669-88fa4234ad9d",
+            "Value": {
+                "id": "84bf57e5-8c1c-4fb6-aa73-4f9298c4f5ec",
+                "resourcePath": "datafiles_yy\\items.json.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
