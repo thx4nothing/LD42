@@ -63,6 +63,30 @@
             }
         },
         {
+            "Key": "0ca525ee-e345-4245-b364-2962a4c5002e",
+            "Value": {
+                "id": "aaf31eaf-8644-4c09-9b87-c117caa2f06a",
+                "resourcePath": "views\\0ca525ee-e345-4245-b364-2962a4c5002e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0d494e49-944a-4114-a371-4a6278a464db",
+            "Value": {
+                "id": "99accc28-7196-4bab-ac68-2b5721225505",
+                "resourcePath": "sprites\\sUpgrade\\sUpgrade.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0fb437f7-e83f-473e-bd32-5cce6b742b50",
+            "Value": {
+                "id": "73b64c34-2ad1-415d-9c3c-1421850350ff",
+                "resourcePath": "sprites\\sMusicCategory\\sMusicCategory.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "112df4f5-d878-4f11-9184-7f1e9d55a568",
             "Value": {
                 "id": "798fb977-ba22-498c-b3a2-f527bfe7151d",
@@ -151,6 +175,14 @@
             }
         },
         {
+            "Key": "4701c22f-c77e-4575-9a6b-2ff09e30b1ac",
+            "Value": {
+                "id": "e69be290-2e4b-49f2-9338-ddab53e38e91",
+                "resourcePath": "views\\4701c22f-c77e-4575-9a6b-2ff09e30b1ac.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "493d23f9-0925-4cac-84d2-9e685ef4c567",
             "Value": {
                 "id": "f6dce67b-a7d5-44fa-b217-ab97b52ef095",
@@ -175,6 +207,30 @@
             }
         },
         {
+            "Key": "517d9204-3edd-449e-a930-5e67354e0d90",
+            "Value": {
+                "id": "f4494798-b9cf-423e-b9d8-5469b7b717d3",
+                "resourcePath": "objects\\oSearchbar\\oSearchbar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5ab726e2-4e27-4f1b-968f-60e5e5a016ca",
+            "Value": {
+                "id": "f09f549e-abfb-41ea-ada2-50e5608d7b18",
+                "resourcePath": "objects\\oDownloadFavButton\\oDownloadFavButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5d2308dd-b8bb-47c1-8381-c6eb6c485dea",
+            "Value": {
+                "id": "2a393d8c-6f8e-457a-b020-051886ee903f",
+                "resourcePath": "sprites\\sGameCategory\\sGameCategory.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5e34fa4f-cd1a-4582-9b2f-ee893049f1e5",
             "Value": {
                 "id": "ef17bb89-8228-461e-b424-c8eaee2f603a",
@@ -196,6 +252,14 @@
                 "id": "6685fb0b-b415-4896-93cd-9effe816339f",
                 "resourcePath": "views\\61126154-9462-4147-9e30-58a2d06970ac.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "61e48b0b-649f-4838-a70a-b5feb5715f0c",
+            "Value": {
+                "id": "4e91aa1a-6de9-42c7-80ea-ba4d369601fc",
+                "resourcePath": "sprites\\sFrame\\sFrame.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -247,6 +311,14 @@
             }
         },
         {
+            "Key": "86de29b3-7864-49ad-91e1-9ce1f4f03bf4",
+            "Value": {
+                "id": "566ba92e-1f04-430d-95db-ab4b556f7cd8",
+                "resourcePath": "sprites\\sDownload\\sDownload.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "88bd924e-cb29-48b7-b3bf-d2c3be175f82",
             "Value": {
                 "id": "3f100534-ce00-481d-9cbb-cc41efe2acd1",
@@ -255,11 +327,35 @@
             }
         },
         {
+            "Key": "8bb1c521-2546-423f-9b8b-fec49b75ebad",
+            "Value": {
+                "id": "c0d79efc-5b3b-45a1-93c4-37790dfaec74",
+                "resourcePath": "objects\\oMusicCategoryButton\\oMusicCategoryButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8e0299da-b9f9-4a30-ac1c-bad9ff1c7773",
+            "Value": {
+                "id": "ef2919c1-aa1b-4d04-8651-419a5aa7db77",
+                "resourcePath": "sprites\\sSearchbar\\sSearchbar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "90bde64d-aafe-42e9-8208-8aad357cdce8",
             "Value": {
                 "id": "c1ad772f-0c80-45f0-a5d2-22e3ce0c6538",
                 "resourcePath": "objects\\oInternetButton\\oInternetButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "933180ef-e1dd-4cb6-9295-d4ecd1394948",
+            "Value": {
+                "id": "42b510f3-dfee-4ebb-8b3b-956ffa39f3ae",
+                "resourcePath": "sprites\\sMovieCategory\\sMovieCategory.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -287,11 +383,35 @@
             }
         },
         {
+            "Key": "a4c7d452-144d-45c1-adfb-010da3b3c373",
+            "Value": {
+                "id": "769e63f3-2cab-4c4d-991e-7d98195dbb51",
+                "resourcePath": "objects\\oGameCategoryButton\\oGameCategoryButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a4d81713-bc80-4935-9bb1-f814eafb9dc1",
+            "Value": {
+                "id": "c005ae18-bf60-4556-b17e-3ab1cc61c1ac",
+                "resourcePath": "objects\\oHardwareFavButton\\oHardwareFavButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "5017aec3-351f-4e6b-b663-4bf3a9560d90",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a9825785-dea9-428a-bbae-5ec904495e1a",
+            "Value": {
+                "id": "e084612b-db12-4365-bc31-ea3ec995bd99",
+                "resourcePath": "sprites\\sUpgradeSpeed\\sUpgradeSpeed.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -303,11 +423,43 @@
             }
         },
         {
+            "Key": "acc5081a-218c-4f98-9725-4c474e3c0d56",
+            "Value": {
+                "id": "4c5e5bc0-bb5d-49d6-ab75-280e90662a5d",
+                "resourcePath": "sprites\\sInternet\\sInternet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "afb60235-1496-4ab8-93e3-79b5eebaa5be",
             "Value": {
                 "id": "735c1e5c-913d-4477-bf42-fa0bddd668d5",
                 "resourcePath": "objects\\oRecycleBin\\oRecycleBin.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b5306d77-d1d7-45a4-8bba-9f09d2d29285",
+            "Value": {
+                "id": "ca16898b-d1ab-49ae-b292-cbefc6b164ec",
+                "resourcePath": "objects\\oMovieCategoryButton\\oMovieCategoryButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bbd0da8b-8ca4-4211-b746-8c0a1af1cf57",
+            "Value": {
+                "id": "dd2d970a-25f5-4215-ae9f-a9b3a44525f6",
+                "resourcePath": "views\\bbd0da8b-8ca4-4211-b746-8c0a1af1cf57.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c8c56113-e79a-4d92-bd92-4e3fc14ad6b3",
+            "Value": {
+                "id": "1249ae08-fb6f-47ae-8003-539f605448e2",
+                "resourcePath": "sprites\\sHardware\\sHardware.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -331,6 +483,14 @@
             "Value": {
                 "id": "569c4fac-cd7e-46df-91f7-c41140995723",
                 "resourcePath": "views\\d0f8da2d-457f-43c8-8f38-4160d2fe65e9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d1be715f-6460-458d-9299-cfefa9420434",
+            "Value": {
+                "id": "36a0ab1e-202c-47f5-9aab-be945e4acf4e",
+                "resourcePath": "views\\d1be715f-6460-458d-9299-cfefa9420434.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -399,11 +559,27 @@
             }
         },
         {
+            "Key": "e6585cdd-fa4d-4c69-bb61-05f9cdc17288",
+            "Value": {
+                "id": "576c8b12-c8dc-4773-ad08-93b6ebd4510a",
+                "resourcePath": "objects\\oInternetFavButton\\oInternetFavButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ec99d5b4-091c-4f56-a0ba-0ad6665487be",
             "Value": {
                 "id": "8467988c-998f-4a2f-afb2-fd07c379a167",
                 "resourcePath": "sprites\\sTaskbar\\sTaskbar.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ecff2d16-2f04-47df-8f7f-cde850ca25e7",
+            "Value": {
+                "id": "b39a4558-3241-49a4-abc5-94911c5fdaf4",
+                "resourcePath": "objects\\oUpgrade\\oUpgrade.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -419,6 +595,14 @@
             "Value": {
                 "id": "96e6bd08-cfa1-4876-8b8e-9ed170ab108a",
                 "resourcePath": "sprites\\sStartButton\\sStartButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "efa37d4d-0586-4eb3-8e3e-bc2bd67f9b91",
+            "Value": {
+                "id": "68ee41ec-ee28-4c03-bcba-1a7e2561ce99",
+                "resourcePath": "sprites\\sUpgradeVolume\\sUpgradeVolume.yy",
                 "resourceType": "GMSprite"
             }
         },
