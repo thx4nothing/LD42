@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oTaskListButton",
     "eventList": [
-        
+        {
+            "id": "55973c1c-3a6b-485b-b294-01d9e9cddcb3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "69e4fc9b-2efd-40db-8a1a-fe43201cc06e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "07f04918-3c6d-4ebe-bbc4-6c0509e8df5a",
+            "Value": {
+                "id": "689fd947-4188-44d1-8531-26dcd12ef7cf",
+                "resourcePath": "views\\07f04918-3c6d-4ebe-bbc4-6c0509e8df5a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "094f3d81-07de-409e-a826-2c1a046ca5a2",
             "Value": {
                 "id": "ccc86d92-e1fd-48f0-937f-04495688bad0",
@@ -68,6 +76,14 @@
                 "id": "6bc9d281-f83d-4dec-9a71-c7a3c6ca4177",
                 "resourcePath": "sprites\\sUSBStick\\sUSBStick.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1b3f4ac6-8a68-4299-a8fb-bea7f3a8b3c9",
+            "Value": {
+                "id": "f6157a7f-a725-4750-bbe3-6a53c3a0535d",
+                "resourcePath": "views\\1b3f4ac6-8a68-4299-a8fb-bea7f3a8b3c9.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -111,6 +127,14 @@
             }
         },
         {
+            "Key": "36e3e758-9b2d-4eb6-a62b-47e9912f883a",
+            "Value": {
+                "id": "7f359964-eade-428c-93c9-6eb364582280",
+                "resourcePath": "views\\36e3e758-9b2d-4eb6-a62b-47e9912f883a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3bdf3dd3-6d37-4b76-b17a-4a5e2b2ccc13",
             "Value": {
                 "id": "24cd40c7-0390-4874-b171-c80d7e3765f2",
@@ -140,6 +164,14 @@
                 "id": "5359604e-5e43-43ef-b043-823d34506330",
                 "resourcePath": "objects\\oTaskbar\\oTaskbar.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4e4288ee-2b88-45f7-b977-9becfa79c212",
+            "Value": {
+                "id": "a70defdd-6688-4e2c-901a-dfd9f784c8cb",
+                "resourcePath": "views\\4e4288ee-2b88-45f7-b977-9becfa79c212.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -324,6 +356,14 @@
                 "id": "42bbe0d0-a2b8-4554-add7-58a67d3f33a4",
                 "resourcePath": "sprites\\sRecycleBin\\sRecycleBin.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "db448981-99bd-43c3-a851-7395dc44b820",
+            "Value": {
+                "id": "da130cbc-18e8-47a8-8e69-bab009dee7c5",
+                "resourcePath": "views\\db448981-99bd-43c3-a851-7395dc44b820.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
