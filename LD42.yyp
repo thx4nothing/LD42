@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "8cc78661-6f9e-4e3b-bff2-d311ec3c7a29",
+            "Value": {
+                "id": "370b45ce-2731-4f2a-bdec-203d08798af0",
+                "resourcePath": "sprites\\sIncreaseStorage\\sIncreaseStorage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8e0299da-b9f9-4a30-ac1c-bad9ff1c7773",
             "Value": {
                 "id": "ef2919c1-aa1b-4d04-8651-419a5aa7db77",
@@ -403,6 +411,14 @@
             "Value": {
                 "id": "b32d5b4c-c86a-4b95-84f2-6c4b5565ac3c",
                 "resourcePath": "views\\950e8970-8657-4d4b-8145-278250ac3862.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "98b62324-0cea-4eb4-a0f9-6e485e6c31d6",
+            "Value": {
+                "id": "8e9121dd-eb6c-4dc4-a0c7-5ce608cbbe68",
+                "resourcePath": "views\\98b62324-0cea-4eb4-a0f9-6e485e6c31d6.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -471,11 +487,27 @@
             }
         },
         {
+            "Key": "afd4d728-6446-4ba8-8183-e49971f7ad58",
+            "Value": {
+                "id": "65319621-c77c-464b-aabe-43b0e69af3d8",
+                "resourcePath": "views\\afd4d728-6446-4ba8-8183-e49971f7ad58.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b5306d77-d1d7-45a4-8bba-9f09d2d29285",
             "Value": {
                 "id": "ca16898b-d1ab-49ae-b292-cbefc6b164ec",
                 "resourcePath": "objects\\oMovieCategoryButton\\oMovieCategoryButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b6d13ca4-78e5-487a-935d-77fbe2881ba8",
+            "Value": {
+                "id": "62aca508-97d4-43e6-adb1-664643f83e4a",
+                "resourcePath": "sprites\\sUpdateUSBStick\\sUpdateUSBStick.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
