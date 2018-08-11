@@ -199,11 +199,27 @@
             }
         },
         {
+            "Key": "69c1246e-3fc3-4063-bfc7-16a24f2155a0",
+            "Value": {
+                "id": "41d1e4de-1a64-4643-b8bf-fc150b8388bf",
+                "resourcePath": "scripts\\get_random_movie_name\\get_random_movie_name.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "69e4fc9b-2efd-40db-8a1a-fe43201cc06e",
             "Value": {
                 "id": "fe39da2b-a825-4672-8553-f3db8ef18d6b",
                 "resourcePath": "objects\\oTaskListButton\\oTaskListButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7196d64d-ef2a-4600-a674-0bdbaa660ce4",
+            "Value": {
+                "id": "c39a3ee9-d18d-4138-976f-38b48bc518ea",
+                "resourcePath": "sprites\\sMovie\\sMovie.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -228,6 +244,14 @@
                 "id": "47032047-ac9d-4659-a5c2-5c3ba99fcb97",
                 "resourcePath": "sprites\\sWallpaper\\sWallpaper.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7f79e549-1df1-4e6e-85d5-cfc04beeabb0",
+            "Value": {
+                "id": "83fc391b-29b3-408e-abc4-7a93bb63230f",
+                "resourcePath": "views\\7f79e549-1df1-4e6e-85d5-cfc04beeabb0.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -440,7 +464,8 @@
         }
     ],
     "script_order": [
-        "214349bb-6493-43a6-8826-b5f500630956"
+        "214349bb-6493-43a6-8826-b5f500630956",
+        "69c1246e-3fc3-4063-bfc7-16a24f2155a0"
     ],
     "tutorial": ""
 }

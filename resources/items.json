@@ -1,0 +1,18 @@
+[
+  {
+    "name": "avengers",
+    "size": 1024,
+    "quality": "3",
+    "type": "movie"
+  },
+  {"name": "eminem",
+    "size": 32,
+    "quality": "2",
+    "type": "audio"
+  },
+  {"name": "doom",
+    "size": 40000,
+    "quality": "3",
+    "type": "game"
+  }
+]
