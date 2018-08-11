@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "01e0af50-5b49-4c3f-9b4b-398b37907754",
+            "Value": {
+                "id": "4766b21f-d552-4f9a-8b6c-ad8f9c30c361",
+                "resourcePath": "objects\\oUSB\\oUSB.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "094f3d81-07de-409e-a826-2c1a046ca5a2",
             "Value": {
                 "id": "ccc86d92-e1fd-48f0-937f-04495688bad0",
@@ -39,10 +47,34 @@
             }
         },
         {
+            "Key": "09a6acb4-52ba-4bb6-a716-6c4fd2049bf3",
+            "Value": {
+                "id": "753db897-fed7-438b-8a34-f9001a8aa00e",
+                "resourcePath": "objects\\oItem\\oItem.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "112df4f5-d878-4f11-9184-7f1e9d55a568",
+            "Value": {
+                "id": "798fb977-ba22-498c-b3a2-f527bfe7151d",
+                "resourcePath": "views\\112df4f5-d878-4f11-9184-7f1e9d55a568.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "163dade3-84cb-4d47-bca5-17946f915f98",
+            "Value": {
+                "id": "6bc9d281-f83d-4dec-9a71-c7a3c6ca4177",
+                "resourcePath": "sprites\\sUSBStick\\sUSBStick.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1e8aca0f-1003-4b7f-9802-fd4d353e5959",
             "Value": {
                 "id": "980b1708-975d-435c-930c-9cd7cf48428a",
-                "resourcePath": "objects\\oGame\\oGame.yy",
+                "resourcePath": "objects\\oGameManager\\oGameManager.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -71,11 +103,43 @@
             }
         },
         {
+            "Key": "36b18847-6422-4ad0-a996-7a3c4e192f26",
+            "Value": {
+                "id": "bab259b1-4673-469c-ba68-74c52ffca5fd",
+                "resourcePath": "views\\36b18847-6422-4ad0-a996-7a3c4e192f26.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3bdf3dd3-6d37-4b76-b17a-4a5e2b2ccc13",
+            "Value": {
+                "id": "24cd40c7-0390-4874-b171-c80d7e3765f2",
+                "resourcePath": "objects\\oStartButton\\oStartButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "43dea3ad-4e54-48c4-9794-c20906dab286",
+            "Value": {
+                "id": "a55e2cd8-fc18-493d-b100-76c083a53c81",
+                "resourcePath": "sprites\\sTaskListButton\\sTaskListButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "493d23f9-0925-4cac-84d2-9e685ef4c567",
             "Value": {
                 "id": "f6dce67b-a7d5-44fa-b217-ab97b52ef095",
                 "resourcePath": "views\\493d23f9-0925-4cac-84d2-9e685ef4c567.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4a75fe3f-c279-43d6-9dec-a4d41d0dd658",
+            "Value": {
+                "id": "5359604e-5e43-43ef-b043-823d34506330",
+                "resourcePath": "objects\\oTaskbar\\oTaskbar.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -103,11 +167,35 @@
             }
         },
         {
+            "Key": "69e4fc9b-2efd-40db-8a1a-fe43201cc06e",
+            "Value": {
+                "id": "fe39da2b-a825-4672-8553-f3db8ef18d6b",
+                "resourcePath": "objects\\oTaskListButton\\oTaskListButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "71c0d807-f18d-4cc2-aba7-e709a0a9ce66",
+            "Value": {
+                "id": "e1ff0519-6c1d-448b-88de-77c09c332260",
+                "resourcePath": "views\\71c0d807-f18d-4cc2-aba7-e709a0a9ce66.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "73b42bb0-2ad3-4e65-9049-9588cf9a9f7a",
             "Value": {
                 "id": "3d8e2714-0f46-4d36-91c7-ec40ad53d853",
                 "resourcePath": "objects\\oDisplayManager\\oDisplayManager.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7cb74d79-3db5-41b6-9f2d-024acfb63220",
+            "Value": {
+                "id": "47032047-ac9d-4659-a5c2-5c3ba99fcb97",
+                "resourcePath": "sprites\\sWallpaper\\sWallpaper.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -119,11 +207,27 @@
             }
         },
         {
+            "Key": "86880c96-720a-4556-98ab-079ff04f02ba",
+            "Value": {
+                "id": "8038e5b7-3f38-463f-8b67-a47c8dd8af4e",
+                "resourcePath": "sprites\\sInternetButton\\sInternetButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "88bd924e-cb29-48b7-b3bf-d2c3be175f82",
             "Value": {
                 "id": "3f100534-ce00-481d-9cbb-cc41efe2acd1",
                 "resourcePath": "views\\88bd924e-cb29-48b7-b3bf-d2c3be175f82.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "90bde64d-aafe-42e9-8208-8aad357cdce8",
+            "Value": {
+                "id": "c1ad772f-0c80-45f0-a5d2-22e3ce0c6538",
+                "resourcePath": "objects\\oInternetButton\\oInternetButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -167,6 +271,14 @@
             }
         },
         {
+            "Key": "afb60235-1496-4ab8-93e3-79b5eebaa5be",
+            "Value": {
+                "id": "735c1e5c-913d-4477-bf42-fa0bddd668d5",
+                "resourcePath": "objects\\oRecycleBin\\oRecycleBin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "3cd68e1e-e228-4075-8944-2aec0b85ac6b",
@@ -207,6 +319,30 @@
             }
         },
         {
+            "Key": "d99af290-b3f0-42c9-91f8-04e7b8c24096",
+            "Value": {
+                "id": "42bbe0d0-a2b8-4554-add7-58a67d3f33a4",
+                "resourcePath": "sprites\\sRecycleBin\\sRecycleBin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dc75ab79-3d9f-475d-b165-e1c610acc1f0",
+            "Value": {
+                "id": "8adc6da7-1447-4568-8122-47254893088d",
+                "resourcePath": "objects\\oContextMenu\\oContextMenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dc994299-1d24-4911-a2fe-315a88f11cce",
+            "Value": {
+                "id": "9535f686-db36-4319-92a0-5fbfb90ac001",
+                "resourcePath": "views\\dc994299-1d24-4911-a2fe-315a88f11cce.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e0c6d4b3-2864-4ff8-a2ad-89ae526acd51",
             "Value": {
                 "id": "e044273a-fc86-437e-858b-e1ad47a8126e",
@@ -223,6 +359,14 @@
             }
         },
         {
+            "Key": "ec99d5b4-091c-4f56-a0ba-0ad6665487be",
+            "Value": {
+                "id": "8467988c-998f-4a2f-afb2-fd07c379a167",
+                "resourcePath": "sprites\\sTaskbar\\sTaskbar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ed3e47f4-087c-4efd-bd7b-a825d8f8d56f",
             "Value": {
                 "id": "548b3c91-9ffc-415a-b26a-68517c4ff119",
@@ -231,11 +375,27 @@
             }
         },
         {
+            "Key": "ef4db570-2bba-43f2-9e8f-7efd303fac1d",
+            "Value": {
+                "id": "96e6bd08-cfa1-4876-8b8e-9ed170ab108a",
+                "resourcePath": "sprites\\sStartButton\\sStartButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "010fc148-0865-40b8-8f4e-9daa6e45f13f",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fcee0484-705b-4798-981f-94d9c5d8ae2c",
+            "Value": {
+                "id": "87fe9825-48bd-4bc0-9c33-bed8641b9fae",
+                "resourcePath": "objects\\oDesktop\\oDesktop.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
