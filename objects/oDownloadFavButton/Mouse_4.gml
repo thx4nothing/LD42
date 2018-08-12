@@ -4,3 +4,6 @@ OFFIE
 ONDL
 ONDE
 OFFHE
+OFFHL
+
+oBrowserManager.selected_tabindex_ = 0;

@@ -4,14 +4,13 @@
     "mvc": "1.1",
     "name": "bbd0da8b-8ca4-4211-b746-8c0a1af1cf57",
     "children": [
-        "a4c7d452-144d-45c1-adfb-010da3b3c373",
-        "8bb1c521-2546-423f-9b8b-fec49b75ebad",
-        "b5306d77-d1d7-45a4-8bba-9f09d2d29285",
-        "a4d81713-bc80-4935-9bb1-f814eafb9dc1",
-        "e6585cdd-fa4d-4c69-bb61-05f9cdc17288",
-        "5ab726e2-4e27-4f1b-968f-60e5e5a016ca",
         "ecff2d16-2f04-47df-8f7f-cde850ca25e7",
-        "3b598ae9-0841-4ee5-aa4c-75a5b23486a7"
+        "3b598ae9-0841-4ee5-aa4c-75a5b23486a7",
+        "65be03cb-58c6-481a-9c00-57f56a91aaf0",
+        "3c656bbf-93fe-4a87-9ccf-5191e354b129",
+        "4ad01275-f4d0-441e-b14a-ada66a29f81f",
+        "02017dc7-6d8a-4e26-b38a-5b0224af61a9",
+        "51205b8e-73f3-4386-bd70-de5755eedf56"
     ],
     "filterType": "GMObject",
     "folderName": "Buttons",
