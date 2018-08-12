@@ -1,24 +1,18 @@
 [
   {
     "name": "Avengers",
-    "size": 1024,
-    "quality": "1",
     "type": "movie",
     "summary": "ok movie",
     "sprite_name": "sAvengers"
   },
   {
     "name": "Eminem - Lose yourself",
-    "size": 32,
-    "quality": "2",
     "type": "audio",
     "summary": "soo saaad",
     "sprite_name": "sEminem"
   },
   {
     "name": "Doom",
-    "size": 40000,
-    "quality": "3",
     "type": "game",
     "summary": "cooles fps",
     "sprite_name": "sDoom"

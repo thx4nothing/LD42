@@ -12,23 +12,24 @@ while (!file_text_eof(file)) {
 }
 file_text_close(file);
 
-//show_debug_message(items_json_);
-
-items_ = ds_list_create();
-ds_list_add(items_, ds_list_create());
-
 var resultMap = json_decode(items_json_);
 var list = ds_map_find_value(resultMap, "default");
-var size = ds_list_size(list);
+items_ = ds_list_find_index(list, 0);
+ds_map_destroy(resultMap);
+
+baseMovieSize = 1024;
+baseAudioSize = 32;
+baseGameSize = 4096;
+
+/*var size = ds_list_size(list);
 for (var n = 0; n < ds_list_size(list); n++;) {
 	var _item = ds_list_create();
 	var map = ds_list_find_value(list, n);
-	var curr = ds_map_find_first(map);
-	while (is_string(curr)) {
-		show_debug_message(curr);
-		ds_list_add(_item, ds_map_find_value(map, "name"));
-		curr = ds_map_find_next(map, curr);
-	}
+	ds_list_add(_item, ds_map_find_value(map, "name"));
+	ds_list_add(_item, ds_map_find_value(map, "size"));
+	ds_list_add(_item, ds_map_find_value(map, "quality"));
+	ds_list_add(_item, ds_map_find_value(map, "type"));
+	ds_list_add(_item, ds_map_find_value(map, "summary"));
+	ds_list_add(_item, ds_map_find_value(map, "sprite_name"));
 	ds_list_add(items_, _item);
-}
-ds_map_destroy(resultMap);
+}*/
