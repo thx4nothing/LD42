@@ -15,21 +15,14 @@ enum quality {
 	high
 }
 
-file_type_ = type.movie;
-size_ = 1200;
-file_quality_ = quality.high;
-
-switch file_type_ {
-	case type.movie:
-		sprite_index = sMovie;
-		name_ = get_random_movie_name();
-		break;
-	case type.audio:
-		sprite_index = sMovie;
-		name_ = get_random_movie_name();
-		break;
-	case type.game:
-		sprite_index = sMovie;
-		name_ = get_random_movie_name();
-		break;
+enum status {
+	downloading,
+	finished
 }
+
+name_ = "";
+summary_ = "";
+file_type_ = noone;
+file_quality_ = noone;
+size_ = 0;
+sprite_name_ = "";
