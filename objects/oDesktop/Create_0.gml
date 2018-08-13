@@ -11,24 +11,33 @@ with _item {
 	x = irandom_range(0, 960-64);
 	y = irandom_range(0, 540-64-78)
 }
+copy_to_usb(_item, 1);
+
 var _item = get_random_item();
 ds_list_add(items_, _item);
 
 with _item {
 	x = irandom_range(0, 960-64);
 	y = irandom_range(0, 540-64-78)
-}var _item = get_random_item();
-ds_list_add(items_, _item);
+}
+copy_to_usb(_item, 0);
 
-with _item {
-	x = irandom_range(0, 960-64);
-	y = irandom_range(0, 540-64-78)
-}var _item = get_random_item();
+var _item = get_random_item();
 ds_list_add(items_, _item);
 
 with _item {
 	x = irandom_range(0, 960-64);
 	y = irandom_range(0, 540-64-78)
 }
+copy_to_usb(_item, 1);
+
+var _item = get_random_item();
+ds_list_add(items_, _item);
+
+with _item {
+	x = irandom_range(0, 960-64);
+	y = irandom_range(0, 540-64-78)
+}
+copy_to_usb(_item, 0);
 
 //TODO adjust position

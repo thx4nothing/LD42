@@ -22,7 +22,7 @@ for (var i = 0; i < _quests_size; i++;) {
 	var _reward_money = ds_list_find_value(_curr, ds_list_size(_curr) - 1);
 	
 	draw_text(_left, _top, _quest_giver);
-	draw_text(_left + 250, _top, "Reward: $" + string(_reward_money));
+	draw_text(_left + 325, _top, "Reward: $" + string(_reward_money));
 	
 	var _task_size = ds_list_size(_curr) - 2;
 	for (var j = 1; j < _task_size; j++;) {

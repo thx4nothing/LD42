@@ -8,4 +8,7 @@ for (var i = 0; i < _usbs; i++;) {
 }
 
 draw_sprite(sContextItem, 0, mx_ - 6, my_ + (_usbs * 24) - 6);
+draw_text(mx_, my_ + (_usbs * 24), "Copy to Desktop");
+_usbs++;
+draw_sprite(sContextItem, 0, mx_ - 6, my_ + (_usbs * 24) - 6);
 draw_text(mx_, my_ + (_usbs * 24), "Delete");

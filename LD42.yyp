@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "4da2569a-4508-4abf-ac35-31972b572754",
+            "Value": {
+                "id": "fd5fa829-75c2-4bcf-b1cc-cd756bc59550",
+                "resourcePath": "sprites\\sUSBWindowBackground\\sUSBWindowBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4e4288ee-2b88-45f7-b977-9becfa79c212",
             "Value": {
                 "id": "a70defdd-6688-4e2c-901a-dfd9f784c8cb",
@@ -323,6 +331,14 @@
             "Value": {
                 "id": "f4494798-b9cf-423e-b9d8-5469b7b717d3",
                 "resourcePath": "objects\\oSearchbar\\oSearchbar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "563d0a46-8a36-412f-9817-a8cdf804b77d",
+            "Value": {
+                "id": "3768a67d-6ed8-4be6-b351-239f9d4783df",
+                "resourcePath": "objects\\oUSBWindow\\oUSBWindow.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -396,14 +412,6 @@
                 "id": "fe39da2b-a825-4672-8553-f3db8ef18d6b",
                 "resourcePath": "objects\\oTaskListButton\\oTaskListButton.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "6b905027-ee65-488e-8741-c3e0ace54fbe",
-            "Value": {
-                "id": "1d3c01af-ef09-4470-9561-79daec554888",
-                "resourcePath": "rooms\\rUSB\\rUSB.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
