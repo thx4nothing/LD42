@@ -2,8 +2,8 @@
 
 var _entry = argument0;
 
-var _top =  250;
-var _left = 250;
+var _top =  irandom_range(0, 540 - 64 - 78);
+var _left = irandom_range(0, 960-64);
 
 var _item = instance_create_layer(_left, _top, "Items", oItem);
 
