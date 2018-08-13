@@ -7,6 +7,7 @@ draw_set_font(fntDesktopText);
 baseMovieSize = 1024;
 baseAudioSize = 32;
 baseGameSize = 4096;
+baseMoneyReward = 100;
 
 var _file = file_text_open_read(working_directory + "items.json");
 var _items_json = file_text_read_string(_file);
