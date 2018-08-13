@@ -9,8 +9,13 @@ baseAudioSize = 32;
 baseGameSize = 4096;
 baseMoneyReward = 100;
 
+weekday_list_ = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", ];
+
+date_set_timezone(timezone_utc);
 datetime_ = date_create_datetime(2018, 1, 1, 8, 0, 0);
 alarm[0] = global.one_second;
+
+show_debug_message(date_get_weekday(datetime_));
 
 rent_to_pay_ = 500;
 
