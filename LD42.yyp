@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "0ee989a2-f830-46dc-aafa-28d169f55f54",
+            "Value": {
+                "id": "01585430-1417-48ff-9a4d-d26bd895d1f5",
+                "resourcePath": "sprites\\sDownloadManagerBackground\\sDownloadManagerBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0fb437f7-e83f-473e-bd32-5cce6b742b50",
             "Value": {
                 "id": "73b64c34-2ad1-415d-9c3c-1421850350ff",
@@ -447,6 +455,22 @@
             }
         },
         {
+            "Key": "7633a994-f5cc-4ccc-b816-5b1ff363544a",
+            "Value": {
+                "id": "7d83f7c7-c408-437b-8399-81a36c8e389e",
+                "resourcePath": "sprites\\sSystemViewBackground\\sSystemViewBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "79de2335-cfef-4eb3-a471-24f66b8b2475",
+            "Value": {
+                "id": "91f987d1-9428-4f89-8077-feca4f82767f",
+                "resourcePath": "sprites\\sSystemButton\\sSystemButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7cb74d79-3db5-41b6-9f2d-024acfb63220",
             "Value": {
                 "id": "47032047-ac9d-4659-a5c2-5c3ba99fcb97",
@@ -476,6 +500,14 @@
                 "id": "903b1670-c0b6-4bc6-a094-b4cec08b3771",
                 "resourcePath": "fonts\\fntDownloadItemDescr\\fntDownloadItemDescr.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "848f871b-d2c9-4484-ac42-af90ef3f5e10",
+            "Value": {
+                "id": "044d150f-c0bb-4d67-82ca-7c55db5cf90b",
+                "resourcePath": "sprites\\sDownloadManagerButton\\sDownloadManagerButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -799,6 +831,14 @@
             }
         },
         {
+            "Key": "e10294fa-a606-40f3-afe8-f90f7c4c08a2",
+            "Value": {
+                "id": "0348e185-0797-4172-ac43-20441f44846e",
+                "resourcePath": "objects\\oSystemViewButton\\oSystemViewButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e4733787-a549-47ef-86d2-82c7f8961b97",
             "Value": {
                 "id": "5b2034bb-4217-46f8-915a-4be72aa35113",
@@ -819,6 +859,14 @@
             "Value": {
                 "id": "576c8b12-c8dc-4773-ad08-93b6ebd4510a",
                 "resourcePath": "objects\\oInternetFavButton\\oInternetFavButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ec1ec65b-96b1-44eb-845d-7ea24ee14e07",
+            "Value": {
+                "id": "d37025d2-9578-4d86-a53e-7ac272194789",
+                "resourcePath": "objects\\oDownloadManagerButton\\oDownloadManagerButton.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -884,6 +932,14 @@
                 "id": "84bf57e5-8c1c-4fb6-aa73-4f9298c4f5ec",
                 "resourcePath": "datafiles_yy\\items.json.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "faf8c81b-5054-4b8e-b84c-f99d74a0cbfd",
+            "Value": {
+                "id": "8230c7dc-9eda-4ed0-a684-cd2bc51dd338",
+                "resourcePath": "sprites\\sTaskListBackground\\sTaskListBackground.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
