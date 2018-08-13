@@ -1,4 +1,7 @@
 /// @description open window with items
+
+event_inherited();
+
 with oUSBWindow {
 	if usb_object_ == other.id {
 		var _item_size = ds_list_size(usb_object_.items_);

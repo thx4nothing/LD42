@@ -431,14 +431,6 @@
             }
         },
         {
-            "Key": "69c1246e-3fc3-4063-bfc7-16a24f2155a0",
-            "Value": {
-                "id": "41d1e4de-1a64-4643-b8bf-fc150b8388bf",
-                "resourcePath": "scripts\\get_random_movie_name\\get_random_movie_name.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "69e4fc9b-2efd-40db-8a1a-fe43201cc06e",
             "Value": {
                 "id": "fe39da2b-a825-4672-8553-f3db8ef18d6b",
@@ -1049,7 +1041,6 @@
     ],
     "script_order": [
         "214349bb-6493-43a6-8826-b5f500630956",
-        "69c1246e-3fc3-4063-bfc7-16a24f2155a0",
         "18b7efe3-ea72-4a08-8c23-12aafcd0b769",
         "f8c695ec-ecfb-40a7-aaaf-9eacf051cfbe",
         "68edd106-f061-4ef9-9a30-5ab452ad3719",

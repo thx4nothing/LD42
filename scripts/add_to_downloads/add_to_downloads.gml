@@ -2,11 +2,8 @@
 
 var _entry = argument0;
 
-var _row = instance_number(oDesktopIcon); //instance_number(oDesktopIcon)
-var _col = instance_number(oDesktopIcon);
-
-var _top = _row * 78;
-var _left = _col * 64;
+var _top =  250;
+var _left = 250;
 
 var _item = instance_create_layer(_left, _top, "Items", oItem);
 

@@ -25,7 +25,7 @@ for (var i=0; i < ds_list_size(_items); i++;) {
 		var _quali = 0;
 		repeat 3 {
 			var _entry = ds_map_create();
-			var _size = (baseMovieSize * (_quali+1)) + ((_quali+1) * irandom_range(-512, baseMovieSize)); //TODO adjust formular
+			var _size = (baseMovieSize * (_quali+1)) + ((_quali+1) * irandom_range(-512, baseMovieSize)); 
 			//{name, summary, quality, size, sprite_name}
 			ds_map_add(_entry, "name", _name);
 			ds_map_add(_entry, "summary", _summary);
@@ -41,7 +41,7 @@ for (var i=0; i < ds_list_size(_items); i++;) {
 		var _quali = 0;
 		repeat 3 {
 			var _entry = ds_map_create();
-			var _size = (baseAudioSize * (_quali+1)) + ((_quali+1) * irandom_range(-16, baseAudioSize));//TODO adjust formular
+			var _size = (baseAudioSize * (_quali+1)) + ((_quali+1) * irandom_range(-16, baseAudioSize));
 			//{name, summary, quality, size, sprite_name}
 			ds_map_add(_entry, "name", _name);
 			ds_map_add(_entry, "summary", _summary);
@@ -57,7 +57,7 @@ for (var i=0; i < ds_list_size(_items); i++;) {
 		var _quali = 0;
 		repeat 3 {
 			var _entry = ds_map_create();
-			var _size = (baseGameSize * (_quali+1)) + ((_quali+1) * irandom_range(-2048, baseGameSize));//TODO adjust formular
+			var _size = (baseGameSize * (_quali+1)) + ((_quali+1) * irandom_range(-2048, baseGameSize));
 			//{name, summary, quality, size, sprite_name}
 			ds_map_add(_entry, "name", _name);
 			ds_map_add(_entry, "summary", _summary);
