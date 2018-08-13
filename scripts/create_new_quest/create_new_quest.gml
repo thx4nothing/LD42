@@ -1,4 +1,4 @@
-var _item_count = irandom_range(2,5);
+var _item_count = irandom_range(2,4);
 
 show_debug_message(_item_count);
 
