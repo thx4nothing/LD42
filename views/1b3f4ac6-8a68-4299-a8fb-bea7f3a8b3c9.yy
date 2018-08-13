@@ -6,7 +6,7 @@
     "children": [
         "dc994299-1d24-4911-a2fe-315a88f11cce",
         "fcee0484-705b-4798-981f-94d9c5d8ae2c",
-        "dc75ab79-3d9f-475d-b165-e1c610acc1f0"
+        "b1b5b132-eaa4-4e90-a866-56885a2c779a"
     ],
     "filterType": "GMObject",
     "folderName": "Desktop",

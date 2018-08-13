@@ -47,6 +47,22 @@
             }
         },
         {
+            "Key": "04460fca-05f3-4d11-8028-338067330ca3",
+            "Value": {
+                "id": "9dbb7d5f-35f5-4eeb-904b-8db03fa85455",
+                "resourcePath": "objects\\oWindow\\oWindow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "05ce313e-5a63-434a-ab28-304b8c75f452",
+            "Value": {
+                "id": "aa71d858-3fdc-4f05-8138-5aa935c9741c",
+                "resourcePath": "sprites\\sPopup\\sPopup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "07f04918-3c6d-4ebe-bbc4-6c0509e8df5a",
             "Value": {
                 "id": "689fd947-4188-44d1-8531-26dcd12ef7cf",
@@ -108,6 +124,22 @@
                 "id": "798fb977-ba22-498c-b3a2-f527bfe7151d",
                 "resourcePath": "views\\112df4f5-d878-4f11-9184-7f1e9d55a568.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "13214cb5-1293-464b-a0b9-2b0309e0656f",
+            "Value": {
+                "id": "07531d86-e8a4-4437-813d-ecd52dbf5031",
+                "resourcePath": "scripts\\create_new_quest\\create_new_quest.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "13a7087d-21af-4604-ba87-f2ee4d423529",
+            "Value": {
+                "id": "2b224ae6-0ad5-44cc-a879-fa1ae143ec13",
+                "resourcePath": "objects\\oDesktopIcon\\oDesktopIcon.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -180,6 +212,14 @@
                 "id": "7f359964-eade-428c-93c9-6eb364582280",
                 "resourcePath": "views\\36e3e758-9b2d-4eb6-a62b-47e9912f883a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3925795d-90ef-41e2-8d72-5af7177b49ed",
+            "Value": {
+                "id": "8a3b26f2-f392-4614-bea0-2dfe5b73454c",
+                "resourcePath": "objects\\oDownloadManager\\oDownloadManager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -327,6 +367,14 @@
             }
         },
         {
+            "Key": "68edd106-f061-4ef9-9a30-5ab452ad3719",
+            "Value": {
+                "id": "013d17d5-0a33-43da-a92d-55ae1b1b66dd",
+                "resourcePath": "scripts\\create_new_task\\create_new_task.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "69c1246e-3fc3-4063-bfc7-16a24f2155a0",
             "Value": {
                 "id": "41d1e4de-1a64-4643-b8bf-fc150b8388bf",
@@ -339,6 +387,14 @@
             "Value": {
                 "id": "fe39da2b-a825-4672-8553-f3db8ef18d6b",
                 "resourcePath": "objects\\oTaskListButton\\oTaskListButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6d815081-bdac-47d3-a062-c36a121a0d28",
+            "Value": {
+                "id": "12bd0bda-013e-42dc-8582-82b38ef2077a",
+                "resourcePath": "objects\\oTaskList\\oTaskList.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -407,6 +463,14 @@
             }
         },
         {
+            "Key": "7f878c6e-16a9-4df1-b4a9-89686f42d8c8",
+            "Value": {
+                "id": "3b04750b-b126-434b-934f-c6f9b792a4ca",
+                "resourcePath": "scripts\\create_item_object_from_map\\create_item_object_from_map.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8261f199-3f0e-472c-a9a1-1b284e6cb795",
             "Value": {
                 "id": "903b1670-c0b6-4bc6-a094-b4cec08b3771",
@@ -451,6 +515,14 @@
             "Value": {
                 "id": "c0d79efc-5b3b-45a1-93c4-37790dfaec74",
                 "resourcePath": "objects\\oMusicCategoryButton\\oMusicCategoryButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8cc21dd6-0fa5-4435-a200-b44b6f6d2d1d",
+            "Value": {
+                "id": "f91c7386-df80-4f69-a83d-4bcdde492a82",
+                "resourcePath": "objects\\oSystemView\\oSystemView.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -591,6 +663,14 @@
             }
         },
         {
+            "Key": "b1b5b132-eaa4-4e90-a866-56885a2c779a",
+            "Value": {
+                "id": "e4530454-4264-49c9-a29d-c2626bf7f922",
+                "resourcePath": "views\\b1b5b132-eaa4-4e90-a866-56885a2c779a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b5306d77-d1d7-45a4-8bba-9f09d2d29285",
             "Value": {
                 "id": "ca16898b-d1ab-49ae-b292-cbefc6b164ec",
@@ -620,6 +700,14 @@
                 "id": "dd2d970a-25f5-4215-ae9f-a9b3a44525f6",
                 "resourcePath": "views\\bbd0da8b-8ca4-4211-b746-8c0a1af1cf57.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bcf48348-6139-47e7-a3d1-292730e930fe",
+            "Value": {
+                "id": "27df7499-0bcb-4828-821b-eaad43bd60be",
+                "resourcePath": "sprites\\sContextItem\\sContextItem.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -692,14 +780,6 @@
                 "id": "da130cbc-18e8-47a8-8e69-bab009dee7c5",
                 "resourcePath": "views\\db448981-99bd-43c3-a851-7395dc44b820.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "dc75ab79-3d9f-475d-b165-e1c610acc1f0",
-            "Value": {
-                "id": "8adc6da7-1447-4568-8122-47254893088d",
-                "resourcePath": "objects\\oContextMenu\\oContextMenu.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -791,6 +871,14 @@
             }
         },
         {
+            "Key": "f8c695ec-ecfb-40a7-aaaf-9eacf051cfbe",
+            "Value": {
+                "id": "3d6b4bd8-be7b-45a9-aa92-4bac0b5cede6",
+                "resourcePath": "scripts\\copy_to_usb\\copy_to_usb.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "fac055cd-b7ec-4c96-9669-88fa4234ad9d",
             "Value": {
                 "id": "84bf57e5-8c1c-4fb6-aa73-4f9298c4f5ec",
@@ -810,7 +898,11 @@
     "script_order": [
         "214349bb-6493-43a6-8826-b5f500630956",
         "69c1246e-3fc3-4063-bfc7-16a24f2155a0",
-        "18b7efe3-ea72-4a08-8c23-12aafcd0b769"
+        "18b7efe3-ea72-4a08-8c23-12aafcd0b769",
+        "f8c695ec-ecfb-40a7-aaaf-9eacf051cfbe",
+        "68edd106-f061-4ef9-9a30-5ab452ad3719",
+        "13214cb5-1293-464b-a0b9-2b0309e0656f",
+        "7f878c6e-16a9-4df1-b4a9-89686f42d8c8"
     ],
     "tutorial": ""
 }

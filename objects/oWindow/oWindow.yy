@@ -1,10 +1,19 @@
 {
-    "id": "dc75ab79-3d9f-475d-b165-e1c610acc1f0",
+    "id": "04460fca-05f3-4d11-8028-338067330ca3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oContextMenu",
+    "name": "oWindow",
     "eventList": [
-        
+        {
+            "id": "f6bb6127-b655-495e-ab32-5d6097f3c641",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "04460fca-05f3-4d11-8028-338067330ca3"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

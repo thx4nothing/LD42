@@ -1,3 +1,5 @@
+randomize();
+
 global.one_second = game_get_speed(gamespeed_fps);
 
 var _font_string = "ABCDEFGHIJKLMNOPQRSTUVWXYZ.abcdefghijklmnopqrstuvwxyz1234567890>,!':-+";
@@ -35,10 +37,11 @@ for (var i=0; i < ds_list_size(_items); i++;) {
 		var _quali = 0;
 		repeat 3 {
 			var _entry = ds_map_create();
-			var _size = (baseMovieSize * _quali) + (_quali * irandom_range(-250, baseMovieSize));
+			var _size = (baseMovieSize * _quali) + (_quali * irandom_range(-250, baseMovieSize)); //TODO adjust formular
 			//{name, summary, quality, size, sprite_name}
 			ds_map_add(_entry, "name", _name);
 			ds_map_add(_entry, "summary", _summary);
+			ds_map_add(_entry, "type", type.movie);
 			ds_map_add(_entry, "quality", _quali);
 			ds_map_add(_entry, "size", _size);
 			ds_map_add(_entry, "sprite_name", _sprite_name);
@@ -50,14 +53,15 @@ for (var i=0; i < ds_list_size(_items); i++;) {
 		var _quali = 0;
 		repeat 3 {
 			var _entry = ds_map_create();
-			var _size = (baseAudioSize * _quali) + (_quali * irandom_range(-250, baseAudioSize));
+			var _size = (baseAudioSize * _quali) + (_quali * irandom_range(-250, baseAudioSize));//TODO adjust formular
 			//{name, summary, quality, size, sprite_name}
 			ds_map_add(_entry, "name", _name);
 			ds_map_add(_entry, "summary", _summary);
+			ds_map_add(_entry, "type", type.audio);
 			ds_map_add(_entry, "quality", _quali);
 			ds_map_add(_entry, "size", _size);
 			ds_map_add(_entry, "sprite_name", _sprite_name);
-			ds_list_add(audio_list_, _curr);
+			ds_list_add(audio_list_, _entry);
 			_quali++;
 		}
 	}
@@ -65,14 +69,15 @@ for (var i=0; i < ds_list_size(_items); i++;) {
 		var _quali = 0;
 		repeat 3 {
 			var _entry = ds_map_create();
-			var _size = (baseGameSize * _quali) + (_quali * irandom_range(-250, baseGameSize));
+			var _size = (baseGameSize * _quali) + (_quali * irandom_range(-250, baseGameSize));//TODO adjust formular
 			//{name, summary, quality, size, sprite_name}
 			ds_map_add(_entry, "name", _name);
 			ds_map_add(_entry, "summary", _summary);
+			ds_map_add(_entry, "type", type.game);
 			ds_map_add(_entry, "quality", _quali);
 			ds_map_add(_entry, "size", _size);
 			ds_map_add(_entry, "sprite_name", _sprite_name);
-			ds_list_add(game_list_, _curr);
+			ds_list_add(game_list_, _entry);
 			_quali++;
 		}
 	}
@@ -81,9 +86,9 @@ for (var i=0; i < ds_list_size(_items); i++;) {
 ds_map_destroy(_resultMap);
 ds_list_destroy(_list);
 
-show_debug_message(ds_list_size(movie_list_));
+/*show_debug_message(ds_list_size(movie_list_));
 show_debug_message(ds_list_size(audio_list_));
-show_debug_message(ds_list_size(game_list_));
+show_debug_message(ds_list_size(game_list_));*/
 /*var size = ds_list_size(list);
 for (var n = 0; n < ds_list_size(list); n++;) {
 	var _item = ds_list_create();
