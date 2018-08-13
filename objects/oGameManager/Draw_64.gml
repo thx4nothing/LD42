@@ -12,3 +12,7 @@ draw_text(875, 516, date_time_string(datetime_));
 if lose_ {
 	draw_sprite(sLose, 0, 0, 0);
 }
+
+if newday_ {
+	draw_sprite(sNewDay, 0, 960/2-240, 540/2-135);
+}

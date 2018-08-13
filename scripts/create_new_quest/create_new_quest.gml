@@ -13,7 +13,7 @@ repeat _item_count {
 	var _task = noone;
 	do {
 		_task = create_new_task();
-	} until (ds_list_find_index(_ex_names, ds_map_find_value(_task, "name")) != 1);
+	} until (ds_list_find_index(_ex_names, ds_map_find_value(_task, "name")) == -1);
 	ds_list_add(_ex_names, ds_map_find_value(_task, "name"));
 	_whole_quali += ds_map_find_value(_task, "quality");
 	ds_list_add(_task_list, _task); 
@@ -23,4 +23,6 @@ var _reward_money = oGameManager.baseMoneyReward * _item_count * _whole_quali + 
 ds_list_add(_task_list, _reward_money);
 
 //list = Quest giver, element 2-5 tasks, last element = money
+
+ds_list_add(oTaskList.quests_, _task_list);
 return _task_list;

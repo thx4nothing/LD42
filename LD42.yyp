@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "1923c1c4-6e38-4f16-8f7a-532fc97825fe",
+            "Value": {
+                "id": "59ce514a-87f4-4b90-a125-bbe7530c69a9",
+                "resourcePath": "scripts\\load_json_file\\load_json_file.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1b2fead4-231c-45c1-8eb5-318ec4d12f4b",
             "Value": {
                 "id": "9e0362d9-7a9c-40a2-a746-2896cf206611",
@@ -268,6 +276,14 @@
                 "id": "a55e2cd8-fc18-493d-b100-76c083a53c81",
                 "resourcePath": "sprites\\sTaskListButton\\sTaskListButton.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "47753062-cc46-4349-85b9-eb6820f26f74",
+            "Value": {
+                "id": "eb4b54c3-6b15-4998-840a-df3948842d55",
+                "resourcePath": "scripts\\delete_random_quest\\delete_random_quest.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -735,6 +751,14 @@
             }
         },
         {
+            "Key": "ac064d38-27f0-4d6f-9aac-7a4e248e0c75",
+            "Value": {
+                "id": "fedc09f4-3603-4bf6-b9f1-5d15dde6f23c",
+                "resourcePath": "sprites\\sNewDay\\sNewDay.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "acc5081a-218c-4f98-9725-4c474e3c0d56",
             "Value": {
                 "id": "4c5e5bc0-bb5d-49d6-ab75-280e90662a5d",
@@ -1035,7 +1059,9 @@
         "a4f28083-6f4f-4ddb-bf69-90eda7a6d5b7",
         "1b2fead4-231c-45c1-8eb5-318ec4d12f4b",
         "a2aba8c2-6564-465b-93e0-ee0d3a13cc61",
-        "9a37a2f3-328a-4945-97a5-aad728f31194"
+        "9a37a2f3-328a-4945-97a5-aad728f31194",
+        "1923c1c4-6e38-4f16-8f7a-532fc97825fe",
+        "47753062-cc46-4349-85b9-eb6820f26f74"
     ],
     "tutorial": ""
 }
