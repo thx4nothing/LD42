@@ -9,13 +9,13 @@ baseAudioSize = 32;
 baseGameSize = 4096;
 baseMoneyReward = 100;
 
+lose_ = false;
+
 weekday_list_ = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", ];
 
 date_set_timezone(timezone_utc);
 datetime_ = date_create_datetime(2018, 1, 1, 8, 0, 0);
 alarm[0] = global.one_second;
-
-show_debug_message(date_get_weekday(datetime_));
 
 rent_to_pay_ = 500;
 
@@ -94,19 +94,3 @@ for (var i=0; i < ds_list_size(_items); i++;) {
 
 ds_map_destroy(_resultMap);
 ds_list_destroy(_list);
-
-/*show_debug_message(ds_list_size(movie_list_));
-show_debug_message(ds_list_size(audio_list_));
-show_debug_message(ds_list_size(game_list_));*/
-/*var size = ds_list_size(list);
-for (var n = 0; n < ds_list_size(list); n++;) {
-	var _item = ds_list_create();
-	var map = ds_list_find_value(list, n);
-	ds_list_add(_item, ds_map_find_value(map, "name"));
-	ds_list_add(_item, ds_map_find_value(map, "size"));
-	ds_list_add(_item, ds_map_find_value(map, "quality"));
-	ds_list_add(_item, ds_map_find_value(map, "type"));
-	ds_list_add(_item, ds_map_find_value(map, "summary"));
-	ds_list_add(_item, ds_map_find_value(map, "sprite_name"));
-	ds_list_add(items_, _item);
-}*/

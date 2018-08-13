@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "763925a6-ea97-4bdc-be4b-3ff40eb17232",
+            "Value": {
+                "id": "733c4aa7-fb5a-48e0-a5aa-48ee33492887",
+                "resourcePath": "sprites\\sLose\\sLose.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "787b2875-3e91-4ad7-bd75-1e6352e71773",
             "Value": {
                 "id": "4945086b-cfeb-428d-b3a0-9d3463afafe7",
