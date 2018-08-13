@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "61a88f3d-33cb-47cb-a97c-2235905da385",
+            "Value": {
+                "id": "d4c02b7c-43a1-46c2-a465-def81e810277",
+                "resourcePath": "scripts\\delete_from_usb\\delete_from_usb.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "65be03cb-58c6-481a-9c00-57f56a91aaf0",
             "Value": {
                 "id": "0a8e66c0-ef47-47bd-b740-53112129b848",
@@ -652,6 +660,14 @@
                 "id": "c005ae18-bf60-4556-b17e-3ab1cc61c1ac",
                 "resourcePath": "objects\\oHardwareFavButton\\oHardwareFavButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a4f28083-6f4f-4ddb-bf69-90eda7a6d5b7",
+            "Value": {
+                "id": "33ae3464-0c6d-498d-b0ce-157c8d944dbf",
+                "resourcePath": "scripts\\delete_from_desktop\\delete_from_desktop.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -982,7 +998,9 @@
         "f8c695ec-ecfb-40a7-aaaf-9eacf051cfbe",
         "68edd106-f061-4ef9-9a30-5ab452ad3719",
         "13214cb5-1293-464b-a0b9-2b0309e0656f",
-        "7f878c6e-16a9-4df1-b4a9-89686f42d8c8"
+        "7f878c6e-16a9-4df1-b4a9-89686f42d8c8",
+        "61a88f3d-33cb-47cb-a97c-2235905da385",
+        "a4f28083-6f4f-4ddb-bf69-90eda7a6d5b7"
     ],
     "tutorial": ""
 }

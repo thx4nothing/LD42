@@ -4,6 +4,10 @@
 var _source = argument0;
 var _usb = argument1;
 
+_usb = instance_find(oUSB, _usb);
+
+if (_usb.max_size_ - _usb.used_size_) < _source.size_ return false;
+
 var _item = instance_create_layer(0, 0, "WindowItems", oItem);
 with _item {
 	name_ = _source.name_;
@@ -19,8 +23,9 @@ with _item {
 	depth = -199;
 }
 
-with instance_find(oUSB, _usb){
+with _usb {
 	ds_list_add(items_, _item);
+	used_size_ += _item.size_;
 }
 
-
+return true;
