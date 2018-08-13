@@ -463,18 +463,18 @@
             }
         },
         {
+            "Key": "787b2875-3e91-4ad7-bd75-1e6352e71773",
+            "Value": {
+                "id": "4945086b-cfeb-428d-b3a0-9d3463afafe7",
+                "resourcePath": "views\\787b2875-3e91-4ad7-bd75-1e6352e71773.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "79de2335-cfef-4eb3-a471-24f66b8b2475",
             "Value": {
                 "id": "91f987d1-9428-4f89-8077-feca4f82767f",
                 "resourcePath": "sprites\\sSystemButton\\sSystemButton.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7cb74d79-3db5-41b6-9f2d-024acfb63220",
-            "Value": {
-                "id": "47032047-ac9d-4659-a5c2-5c3ba99fcb97",
-                "resourcePath": "sprites\\sWallpaper\\sWallpaper.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -591,14 +591,6 @@
             }
         },
         {
-            "Key": "93a2037c-e460-403d-a7ab-a30fccaa224b",
-            "Value": {
-                "id": "39a85267-773c-41bd-a066-9b38dce0d2d0",
-                "resourcePath": "sprites\\s_font\\s_font.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "950e8970-8657-4d4b-8145-278250ac3862",
             "Value": {
                 "id": "b32d5b4c-c86a-4b95-84f2-6c4b5565ac3c",
@@ -611,6 +603,14 @@
             "Value": {
                 "id": "8e9121dd-eb6c-4dc4-a0c7-5ce608cbbe68",
                 "resourcePath": "views\\98b62324-0cea-4eb4-a0f9-6e485e6c31d6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9ce9a739-8876-474f-b4ff-48ae44e4a6b4",
+            "Value": {
+                "id": "99d8e4e1-b9e2-45b6-a972-aa2d511ca3f3",
+                "resourcePath": "views\\9ce9a739-8876-474f-b4ff-48ae44e4a6b4.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -676,6 +676,14 @@
                 "id": "4c5e5bc0-bb5d-49d6-ab75-280e90662a5d",
                 "resourcePath": "sprites\\sInternet\\sInternet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ae307ae4-ab7f-4953-8036-075ac5c32232",
+            "Value": {
+                "id": "5ddb2bce-2cc9-42a6-9466-61316672a288",
+                "resourcePath": "views\\ae307ae4-ab7f-4953-8036-075ac5c32232.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -898,7 +906,7 @@
             "Key": "ef4db570-2bba-43f2-9e8f-7efd303fac1d",
             "Value": {
                 "id": "96e6bd08-cfa1-4876-8b8e-9ed170ab108a",
-                "resourcePath": "sprites\\sStartButton\\sStartButton.yy",
+                "resourcePath": "sprites\\sDesktopButton\\sDesktopButton.yy",
                 "resourceType": "GMSprite"
             }
         },
