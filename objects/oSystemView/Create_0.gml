@@ -11,3 +11,5 @@ data_volume_max_ = 30000;
 data_volume_used_ = 0;
 
 internet_speed_ = 2;
+
+money_ = 0;
