@@ -11,15 +11,11 @@ enum quality {
 	high
 }
 
-enum status {
-	downloading,
-	finished
-}
-
 enum location {
 	desktop,
 	usb,
-	recycle
+	recycle,
+	downloadmanager
 }
 
 
@@ -30,10 +26,10 @@ file_quality_ = noone;
 size_ = 0;
 sprite_name_ = "";
 
-progress = 0;
+progress_ = 0;
 
 location_ = location.desktop;
 
-identifier = "item";
-
 context_ = false;
+
+status_ = noone;
