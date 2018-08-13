@@ -2,7 +2,7 @@
 {
     "name": "rBrowser",
     "id": "e0c6d4b3-2864-4ff8-a2ad-89ae526acd51",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

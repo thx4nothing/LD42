@@ -1,2 +1,2 @@
 /// @description Switch to Browser
-room_goto(rBrowser)
+if room != rBrowser room_goto(rBrowser);

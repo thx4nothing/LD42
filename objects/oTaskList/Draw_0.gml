@@ -5,6 +5,7 @@ draw_self();
 
 
 draw_set_color(c_black);
+draw_set_font(fntDesktopText);
 
 var _quests_size = ds_list_size(quests_);
 

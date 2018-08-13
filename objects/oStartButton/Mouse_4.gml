@@ -1,2 +1,2 @@
 /// @description Open Start menu
-room_goto(rDesktop);
+if room != rDesktop room_goto(rDesktop);

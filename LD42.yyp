@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "6b905027-ee65-488e-8741-c3e0ace54fbe",
+            "Value": {
+                "id": "1d3c01af-ef09-4470-9561-79daec554888",
+                "resourcePath": "rooms\\rUSB\\rUSB.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "6d815081-bdac-47d3-a062-c36a121a0d28",
             "Value": {
                 "id": "12bd0bda-013e-42dc-8582-82b38ef2077a",
