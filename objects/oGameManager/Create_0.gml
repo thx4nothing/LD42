@@ -12,6 +12,8 @@ baseMoneyReward = 100;
 datetime_ = date_create_datetime(2018, 1, 1, 8, 0, 0);
 alarm[0] = global.one_second;
 
+rent_to_pay_ = 500;
+
 var _file = file_text_open_read(working_directory + "items.json");
 var _items_json = file_text_read_string(_file);
 while (!file_text_eof(_file)) {

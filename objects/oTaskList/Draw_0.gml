@@ -11,6 +11,8 @@ var _quests_size = ds_list_size(quests_);
 
 draw_text(x + 8, y + 8, "Quests: " +  string(_quests_size) + "/" + string(max_quests));
 
+draw_text(x + 355, y + 15, "Rent: $" + string(oGameManager.rent_to_pay_));
+
 var _prev_height = 0;
 
 for (var i = 0; i < _quests_size; i++;) {
